@@ -16,10 +16,15 @@ This map has several features:
 
 **Here shows the above functions:**
 1. Autocomplete
+
 ![](pics/autocomplete.gif)
+
 2. Location Search
+
 ![](pics/findloc.gif)
+
 3. Turn-by-turn Navigation
+
 ![](pics/nav.gif)
 
 ## Classes
