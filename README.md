@@ -2,7 +2,7 @@
 
 Bear map is a Berkeley city map web application, on which users can view and access the geographic Information.
 
-Website: http://129.153.177.66:4567
+Website: http://150.136.140.87:4567
 
 This application is based on [CS 61B Data Structures - UC Berkeley](https://sp18.datastructur.es/)
 
